@@ -1,4 +1,4 @@
-basic.forever(function on_forever() {
+basic.forever(function onForever() {
     basic.showIcon(IconNames.Heart, 500);
     basic.clearScreen();
 
