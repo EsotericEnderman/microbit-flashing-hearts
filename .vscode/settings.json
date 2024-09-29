@@ -33,6 +33,7 @@
         "makecode",
         "microbit",
         "Microbit",
-        "pyprj"
+        "pyprj",
+        "tsprj"
     ]
 }
