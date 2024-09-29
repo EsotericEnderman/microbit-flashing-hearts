@@ -25,5 +25,10 @@
     "files.exclude": {
         "**/pxt_modules": true,
         "**/.pxt": true
-    }
+    },
+    "cSpell.words": [
+        "makecode",
+        "microbit",
+        "Microbit"
+    ]
 }
