@@ -1,6 +1,6 @@
 {
     "name": "flashing-hearts",
-    "description": "",
+    "description": "The classic Snake game on a Microbit.",
     "dependencies": {
         "core": "*"
     },
