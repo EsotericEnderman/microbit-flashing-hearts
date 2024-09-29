@@ -1,8 +1,8 @@
 basic.forever(function on_forever() {
-    basic.showIcon(IconNames.Heart, 500)
-    basic.clearScreen()
+    basic.showIcon(IconNames.Heart, 500);
+    basic.clearScreen();
 
-    basic.pause(500)
+    basic.pause(500);
 
     basic.showLeds(`
     . . . . .
@@ -10,13 +10,13 @@ basic.forever(function on_forever() {
     . # # # .
     . . # . .
     . . . . .
-    `)
-    basic.clearScreen()
+    `);
+    basic.clearScreen();
 
-    basic.pause(500)
+    basic.pause(500);
 
-    basic.showIcon(IconNames.SmallHeart, 500)
-    basic.clearScreen()
+    basic.showIcon(IconNames.SmallHeart, 500);
+    basic.clearScreen();
 
-    basic.pause(500)
+    basic.pause(500);
 })
