@@ -2,7 +2,7 @@
 
 > A flashing heart Microbit project.
 
-> Open this page at [https://EsotericEnderman.github.io/flashing-hearts/](https://EsotericEnderman.github.io/flashing-hearts/)
+> Open this page at [https://EsotericEnderman.github.io/microbit-flashing-hearts/](https://EsotericEnderman.github.io/microbit-flashing-hearts/)
 
 ## Use as Extension
 
@@ -19,7 +19,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/EsotericEnderman/flashing-hearts** and click import
+* paste **https://github.com/EsotericEnderman/microbit-flashing-hearts** and click import
 
 ## Metadata (Used for Search, Rendering)
 
