@@ -1,4 +1,4 @@
-# Flashing Hearts
+# Microbit Flashing Hearts
 
 > A flashing heart Microbit project.
 
