@@ -11,7 +11,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/EsotericEnderman/flashing-hearts** and import
+* search for **https://github.com/EsotericEnderman/microbit-flashing-hearts** and import
 
 ## Edit This Project
 
